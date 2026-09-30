@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# 執行輸出（由 run_all.py 重新產生）
+results/pred_*.csv
+outputs_faithful/
+
+# 快取與系統檔
+.cache/
+*.pkl
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
